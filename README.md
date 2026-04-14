@@ -43,3 +43,9 @@ I am a Data Engineer specialized in Big Data, Cloud Computing, and Artificial In
 
 ## 🎯 Goal
 Build AI-native data platforms combining pipelines + intelligent agents 🚀
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Spark](https://img.shields.io/badge/Spark-orange)
+![AWS](https://img.shields.io/badge/AWS-black)
+
+![Rachid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dicar-2001&show_icons=true)
